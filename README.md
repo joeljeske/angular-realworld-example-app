@@ -6,7 +6,7 @@
 > ### Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 
-<a href="https://stackblitz.com/edit/angular-realworld" target="_blank"><img width="187" src="https://github.com/gothinkster/realworld/blob/master/media/edit_on_blitz.png?raw=true" /></a>&nbsp;&nbsp;<a href="https://thinkster.io/tutorials/building-real-world-angular-2-apps" target="_blank"><img width="384" src="https://raw.githubusercontent.com/gothinkster/realworld/master/media/learn-btn-hr.png" /></a>
+[![Open in Coder Enterprise](https://cdn.coder.com/embed-button.svg)](https://coder.aws.nspoc.net/environments/git?org=default&image=5efcc134-4a3974a69d9ac46e23a82fb1&tag=latest&service=github&repo=git@github.com:joeljeske/angular-realworld-example-app.git)
 
 ### [Demo](https://angular.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
